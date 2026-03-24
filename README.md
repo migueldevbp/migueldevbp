@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner de Miguel Borja" width="100%" />
+</p>
 <h1 align="center">¡Hola! 👋 Soy Miguel Borja</h1>
 <h3 align="center">Developer • Educador • Fundador de startups tecnológicas</h3>
 
