@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">¡Hola! 👋 Soy Miguel Borja</h1>
 <h3 align="center">Developer • Educador • Fundador de startups tecnológicas</h3>
-
 <p align="center">
   <a href="https://www.articdynamics.com">
     <img src="https://img.shields.io/badge/Startup-Artic%20Dynamics-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
